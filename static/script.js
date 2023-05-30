@@ -292,11 +292,6 @@ $(function () {
             getData("/posts/dlbt/" + dlbt);
         }
 
-        let nc = calcNc(words);
-        $("#result").append('<p class="calculation-steps"><b>Chỉ số Nhân cách = ' + nc + '</b>.</p>');
-        if (nc != 0) {
-            getData("/posts/nc/" + nc);
-        }
 
     }
 
