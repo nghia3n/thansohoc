@@ -1,6 +1,6 @@
 ---
-title: "Công thức tính Năng lực tự nhiên (NLTN), Động lực bên trong (ĐLBT)
-và Nhân cách (NC)"
+title: "Công thức tính Chỉ số Năng Lực, Chỉ số Linh hồn
+và Nhân cách"
 ---
 
 **Chúng ta sử dụng Họ đệm tên thường dùng để tính 3 chỉ số này (Có thể là tên khai sinh hoặc nghệ danh/pháp danh thường dùng phổ biến của bạn).**
@@ -63,7 +63,7 @@ và Nhân cách (NC)"
   **8**   **6**   **-**   **3**   **8**   **9**   **-**   **4**   **9**   **5**   **8**
   ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 
--   ***TÍNH NĂNG LỰC TỰ NHIÊN (NLTN)***
+-   ***TÍNH Chỉ số Năng Lực***
 
 -   **Bước 1**: Cộng lần lượt và rút gọn lại còn từ 1 đến 9 hoặc 11, 22,
     33 các chữ số trong Họ, Đệm và Tên (Phương thức giống như tính
@@ -93,7 +93,7 @@ và Nhân cách (NC)"
 
     -   **NLTN của Bác Hồ là số 6**
 
--   ***TÍNH ĐỘNG LỰC BÊN TRONG (ĐLBT)***
+-   ***TÍNH Chỉ số Linh hồn***
 
 -   **Bước 1**: Cộng lần lượt và rút gọn lại còn từ 1 đến 9 hoặc 11, 22,
     33 các chữ số là NGUYÊN ÂM (A, E, I, O, U) trong Họ, Đệm và Tên
