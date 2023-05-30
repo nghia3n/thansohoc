@@ -1,6 +1,5 @@
-baseURL = "https://thansohoc.aicurious.io/"
 languageCode = "vi-vn"
-title = "Xem dự đoán số mệnh qua Thần số học Pythagoras"
+title = "Honu.vn - Tra cứu Chỉ số Thần số học"
 
 # directory(s) where your articles are located
 mainSections = ["posts"]
